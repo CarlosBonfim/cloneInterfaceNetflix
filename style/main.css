@@ -63,6 +63,9 @@ align-items: flex-start;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 
 }
+.filme-principal .container{
+    width: 90%;
+}
 .botao{
     background-color: rgba(0, 0, 0, .50);
     border: none;
@@ -81,5 +84,11 @@ align-items: flex-start;
     color: #000000;
 }
 .botao i{
-    margin-right: 8px;
+    margin-right: 80px;
+}
+
+.box-filme{
+    height: 500%;
+    width: 500%;
+    display: block;
 }
